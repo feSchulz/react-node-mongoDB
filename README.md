@@ -7,7 +7,7 @@ Um projeto fullstack inspirado no Instagram, desenvolvido com **React**, **Node.
 ## 🚀 Tecnologias
 
 **Frontend (React)**
-- React + Vite
+- React
 - Redux Toolkit
 - React Router DOM
 - CSS Modules
